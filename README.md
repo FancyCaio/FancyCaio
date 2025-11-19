@@ -1,28 +1,28 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Caio!;CS+Student+%7C+Dev+Web+%26+Data;Sanji+%3E+Zoro+(fatos).;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Caio!;CS+Student+%7C+Web+%26+Data+Dev;Sanji+%3E+Zoro+(facts).;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <br />
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou estudante de **Ciência da Computação**, apaixonado por tecnologia e sempre buscando otimizar processos (e builds de jogos). Atualmente estou focado em aprofundar meus conhecimentos em **Engenharia de Dados**, **Bancos de Dados** e desenvolvimento **Fullstack**.
+I am a **Computer Science student** passionate about technology and optimization (both in code and gaming builds). Currently, I am focused on deepening my knowledge in **Data Engineering**, **Databases**, and **Fullstack Development**.
 
-* 🎓 **Estudando:** Ciência da Computação.
-* 🔭 **Foco atual:** Data Science, SQL e Python.
-* 💬 **Interesses:** Animes (One Piece, JJK), Games (RPG/Estratégia) e Hardware.
-* 🎌 **Aprendendo:** Japonês e conceitos avançados de Big Data.
+* 🎓 **Studying:** Computer Science.
+* 🔭 **Current Focus:** Data Science, SQL, and Python.
+* 💬 **Interests:** Anime (One Piece, JJK), Games (RPG/Strategy), and Hardware.
+* 🎌 **Learning:** Japanese and advanced Big Data concepts.
 
 ---
 
@@ -45,21 +45,20 @@ Sou estudante de **Ciência da Computação**, apaixonado por tecnologia e sempr
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
 ### ⚡ Fun Facts
-* 🃏 Fã de **Balatro** e jogos de estratégia.
-* 🏴‍☠️ Acredito na supremacia do **Sanji** em One Piece.
-* 🐈 Pai de dois cachorros (que dão trabalho, mas valem a pena).
-* 🏋️‍♂️ Tento manter o shape enquanto compilo código.
+* 🃏 Big fan of **Balatro** and strategy games.
+* 🏴‍☠️ I believe in **Sanji's** supremacy in One Piece.
+* 🐈 Owner of two dogs (chaotic but lovable).
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt=""/>
 </div>
