@@ -21,8 +21,8 @@ I am a **Computer Science student** passionate about technology and optimization
 
 * 🎓 **Studying:** Computer Science.
 * 🔭 **Current Focus:** Data Science, SQL, and Python.
-* 💬 **Interests:** Anime (One Piece, JJK), Games (RPG/Strategy), and Hardware.
-* 🎌 **Learning:** Japanese and advanced Big Data concepts.
+* 💬 **Interests:** Anime (One Piece, JJK, HxH), Games (RPG/Strategy), and Hardware.
+* 🎌 **Learning:** advanced Big Data concepts.
 
 ---
 
