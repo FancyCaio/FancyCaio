@@ -45,17 +45,8 @@ I am a **Computer Science student** passionate about technology and optimization
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### ⚡ Fun Facts
-* 🃏 Big fan of **Balatro** and strategy games.
+* 🃏 Big fan of **Like a Dragon** and strategy games.
 * 🏴‍☠️ I believe in **Sanji's** supremacy in One Piece.
 * 🐈 Owner of two dogs (chaotic but lovable).
 
