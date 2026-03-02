@@ -51,5 +51,5 @@ I am a **Computer Science student** passionate about technology and optimization
 * 🐈 Owner of two dogs (chaotic but lovable).
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=CaioBraga&style=flat-square&color=blue" alt=""/>
 </div>
